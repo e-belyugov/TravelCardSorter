@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelCardSorter.Domain", "TravelCardSorter.Domain\TravelCardSorter.Domain.csproj", "{E0B53CD8-61A9-4070-A42D-03829311CD74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelCardSorter.UnitTests", "TravelCardSorter.UnitTests\TravelCardSorter.UnitTests.csproj", "{D44670FA-03C5-48C3-8232-38EADB41BC71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A07167E0-F79F-47FB-8329-FC0F2A33F93C}"
+	ProjectSection(SolutionItems) = preProject
+		Сложность.txt = Сложность.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0B53CD8-61A9-4070-A42D-03829311CD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B53CD8-61A9-4070-A42D-03829311CD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B53CD8-61A9-4070-A42D-03829311CD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B53CD8-61A9-4070-A42D-03829311CD74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44670FA-03C5-48C3-8232-38EADB41BC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44670FA-03C5-48C3-8232-38EADB41BC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44670FA-03C5-48C3-8232-38EADB41BC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44670FA-03C5-48C3-8232-38EADB41BC71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
